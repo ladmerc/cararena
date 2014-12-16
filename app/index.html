@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+
+<html ng-app="carArena">
+  <head>
+    <meta charset="utf-8">
+    <title>carArena</title>
+    <link rel="icon" type="favicon/png" href="img/andela_icon.png">
+    <link href='http://fonts.googleapis.com/css?family=Playball' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" type="text/css" href="css/vendor/normalize.css">
+    <link rel="stylesheet" type="text/css" href="css/vendor/bootstrap.css">
+    <link rel="stylesheet" type="text/css" href="css/custom/cararena.css">
+  </head>
+  <body ng-controller="carController">
+    <header>
+      <img src="img/andela_icon.png" id="logo">
+      <h2>DESIGNED BY LADNA & SUNDAY &copy;</h2>
+    </header>
+    <div id="content">
+      <span>Search: </span><input type="text" ng-model="query" placeholder="filter search......"></input>
+      <ul id="display">
+        <li ng-repeat="car in cars | filter:query" class="imageList">
+          <img ng-src="{{car.image}}" >
+          <h4>{{car.title | uppercase}}</h4>
+        </li>
+      </ul>
+    </div>
+    <footer>Data courtesy of <a href="https://github.com/VinceG/">Vince G</a>
+      <span>Images Courtesy of Google</span>
+    </footer>
+    <script type="text/javascript" src="js/vendor/jquery-2.1.1.js" ></script>
+    <script type="text/javascript" src="js/vendor/angular.js"></script>
+<!-- 
+    <script type="text/javascript" src="js/vendor/angular-route.js"></script>
+     -->
+    <script type="text/javascript" src="js/vendor/angular-mocks.js"></script>
+    <script type="text/javascript" src="js/app/cararena.js"></script>
+  </body>
+</html>
