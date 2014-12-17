@@ -22,8 +22,23 @@
           <img ng-src="{{car.image}}" >
           <h4>{{car.title | uppercase}}</h4>
         </li>
+        <div id="github">
+          <ul>
+            <li>
+              <img ng-src='{{person.avatar_url}}'>
+              <h4>{{person.login | uppercase}}</h4>
+            </li>
+            <li>
+              <img ng-src='{{person2.avatar_url}}'>
+              <h4>{{person2.login | uppercase}}</h4>
+            </li>
+
+            
+          </ul>
+        </div>          
       </ul>
     </div>
+
     <footer>Data courtesy of <a href="https://github.com/VinceG/">Vince G</a>
       <span>Images Courtesy of Google</span>
     </footer>

@@ -83,3 +83,17 @@ footer span {
   margin-left: 20%;
 
 }
+
+#github li{
+  /*float: left;*/
+  /*margin: auto;*/
+}
+
+#github li img{
+  max-width: 190px;
+  max-height: 200px;
+}
+
+#github ul{
+  text-align: center;
+}

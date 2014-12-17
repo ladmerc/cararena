@@ -7,7 +7,11 @@ describe('carArena Module', function() {
 	beforeEach(module('carArena'));		
 	beforeEach(inject(function($rootScope, _$httpBackend_, $controller) {
 			$httpBackend = _$httpBackend_;
-			$httpBackend.expectGET('../../app/data/cars.json').respond('test');
+			// $httpBackend.expectGET('../../app/data/cars.json').respond('test');
+			$httpBackend.expectGET('https://api.github.com/users/andela-lmeke')
+				.respond({'login': 'myName',
+									'type': 'user',
+									'public_repos': 7});
 			scope = $rootScope.$new();
 			controller = $controller('carController', {$scope:scope});
 		}));
@@ -49,10 +53,13 @@ describe('carArena Module', function() {
 		});
 
 		it('should create "cars" model with data', function() {
-			expect(scope.cars).toBeUndefined();
+			expect(scope.person).toBeUndefined();
 			$httpBackend.flush();
 
-			expect(scope.cars).toEqual('test');
+			// expect(scope.cars).toEqual('test');
+			expect(scope.person).toEqual({'login': 'myName',
+									'type': 'user',
+									'public_repos': 7});
 		});
 
 });
