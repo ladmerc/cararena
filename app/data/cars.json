@@ -2,11 +2,7 @@
   {
     "value": "ACURA",
     "title": "Acura",
-<<<<<<< HEAD
     "image": "img/acura.jpg",
-=======
-    "image": "img/acura.jpg",
->>>>>>> 839aaf009465dd94ef724f87b8488281a1fae15f
     "models": [
       {
         "value": "CL_MODELS",
@@ -109,11 +105,7 @@
   {
     "value": "ALFA",
     "title": "Alfa Romeo",
-<<<<<<< HEAD
     "image": "img/alfa_romeo.jpg",
-=======
-    "image": "img/alfa_romeo.jpg",
->>>>>>> 839aaf009465dd94ef724f87b8488281a1fae15f
     "models": [
       {
         "value": "ALFA164",
@@ -144,11 +136,7 @@
   {
     "value": "AMC",
     "title": "AMC",
-<<<<<<< HEAD
     "image": "img/amc.jpg",
-=======
-    "image": "img/amc.jpg",
->>>>>>> 839aaf009465dd94ef724f87b8488281a1fae15f
     "models": [
       {
         "value": "AMCALLIAN",
@@ -179,11 +167,7 @@
   {
     "value": "ASTON",
     "title": "Aston Martin",
-<<<<<<< HEAD
     "image": "img/aston_martin.jpg",
-=======
-    "image": "img/aston_martin.jpg",
->>>>>>> 839aaf009465dd94ef724f87b8488281a1fae15f
     "models": [
       {
         "value": "DB7",
@@ -229,12 +213,7 @@
   },
   {
     "value": "AUDI",
-    "title": "Audi",
-<<<<<<< HEAD
     "image": "img/audi.jpg",
-=======
-    "image": "img/audi.jpg",
->>>>>>> 839aaf009465dd94ef724f87b8488281a1fae15f
     "models": [
       {
         "value": "AUDI100",
@@ -373,11 +352,7 @@
   {
     "value": "AVANTI",
     "title": "Avanti",
-<<<<<<< HEAD
     "image": "img/avanti.jpg",
-=======
-    "image": "img/avanti.jpg",
->>>>>>> 839aaf009465dd94ef724f87b8488281a1fae15f
     "models": [
       {
         "value": "CONVERT",
@@ -400,11 +375,7 @@
   {
     "value": "BENTL",
     "title": "Bentley",
-<<<<<<< HEAD
     "image": "img/bentley.jpg",
-=======
-    "image": "img/bentley.jpg",
->>>>>>> 839aaf009465dd94ef724f87b8488281a1fae15f
     "models": [
       {
         "value": "ARNAGE",
@@ -447,11 +418,7 @@
   {
     "value": "BMW",
     "title": "BMW",
-<<<<<<< HEAD
     "image": "img/bmw.jpg",
-=======
-    "image": "img/bmw.jpg",
->>>>>>> 839aaf009465dd94ef724f87b8488281a1fae15f
     "models": [
       {
         "value": "1_SERIES",
@@ -882,11 +849,7 @@
   {
     "value": "BUICK",
     "title": "Buick",
-<<<<<<< HEAD
     "image": "img/buick.jpg",
-=======
-    "image": "img/buick.jpg",
->>>>>>> 839aaf009465dd94ef724f87b8488281a1fae15f
     "models": [
       {
         "value": "CENT",
@@ -973,11 +936,7 @@
   {
     "value": "CAD",
     "title": "Cadillac",
-<<<<<<< HEAD
     "image": "img/cadillac.jpg",
-=======
-    "image": "img/cadillac.jpg",
->>>>>>> 839aaf009465dd94ef724f87b8488281a1fae15f
     "models": [
       {
         "value": "ALLANT",
@@ -1060,11 +1019,7 @@
   {
     "value": "CHEV",
     "title": "Chevrolet",
-<<<<<<< HEAD
     "image": "img/chevrolet.jpg",
-=======
-    "image": "img/chevrolet.jpg",
->>>>>>> 839aaf009465dd94ef724f87b8488281a1fae15f
     "models": [
       {
         "value": "ASTRO",
@@ -1283,11 +1238,7 @@
   {
     "value": "CHRY",
     "title": "Chrysler",
-<<<<<<< HEAD
     "image": "img/chrysler.jpg",
-=======
-    "image": "img/chrysler.jpg",
->>>>>>> 839aaf009465dd94ef724f87b8488281a1fae15f
     "models": [
       {
         "value": "CHRYS200",
@@ -1410,11 +1361,7 @@
   {
     "value": "DAEW",
     "title": "Daewoo",
-<<<<<<< HEAD
     "image": "img/daewoo.jpg",
-=======
-    "image": "img/daewoo.jpg",
->>>>>>> 839aaf009465dd94ef724f87b8488281a1fae15f
     "models": [
       {
         "value": "LANOS",
@@ -1437,11 +1384,7 @@
   {
     "value": "DAIHAT",
     "title": "Daihatsu",
-<<<<<<< HEAD
     "image": "img/daihatsu.jpg",
-=======
-    "image": "img/daihatsu.jpg",
->>>>>>> 839aaf009465dd94ef724f87b8488281a1fae15f
     "models": [
       {
         "value": "CHAR",
@@ -1460,11 +1403,7 @@
   {
     "value": "DATSUN",
     "title": "Datsun",
-<<<<<<< HEAD
     "image": "img/datsun.jpg",
-=======
-    "image": "img/datsun.jpg",
->>>>>>> 839aaf009465dd94ef724f87b8488281a1fae15f
     "models": [
       {
         "value": "DAT200SX",
@@ -1527,11 +1466,7 @@
   {
     "value": "DELOREAN",
     "title": "DeLorean",
-<<<<<<< HEAD
     "image": "img/delorean.jpg",
-=======
-    "image": "img/delorean.jpg",
->>>>>>> 839aaf009465dd94ef724f87b8488281a1fae15f
     "models": [
       {
         "value": "DMC12",
@@ -1542,11 +1477,7 @@
   {
     "value": "DODGE",
     "title": "Dodge",
-<<<<<<< HEAD
     "image": "img/dodge.jpg",
-=======
-    "image": "img/dodge.jpg",
->>>>>>> 839aaf009465dd94ef724f87b8488281a1fae15f
     "models": [
       {
         "value": "400",
@@ -1745,11 +1676,7 @@
   {
     "value": "EAGLE",
     "title": "Eagle",
-<<<<<<< HEAD
     "image": "img/eagle.jpg",
-=======
-    "image": "img/eagle.jpg",
->>>>>>> 839aaf009465dd94ef724f87b8488281a1fae15f
     "models": [
       {
         "value": "EAGLEMED",
@@ -1780,11 +1707,7 @@
   {
     "value": "FER",
     "title": "Ferrari",
-<<<<<<< HEAD
     "image": "img/ferrari.jpg",
-=======
-    "image": "img/ferrari.jpg",
->>>>>>> 839aaf009465dd94ef724f87b8488281a1fae15f
     "models": [
       {
         "value": "308GTB",
@@ -1923,11 +1846,7 @@
   {
     "value": "FIAT",
     "title": "FIAT",
-<<<<<<< HEAD
     "image": "img/fiat.jpg",
-=======
-    "image": "img/fiat.jpg",
->>>>>>> 839aaf009465dd94ef724f87b8488281a1fae15f
     "models": [
       {
         "value": "2000",
@@ -1966,11 +1885,7 @@
   {
     "value": "FISK",
     "title": "Fisker",
-<<<<<<< HEAD
     "image": "img/fisker.jpg",
-=======
-    "image": "img/fisker.jpg",
->>>>>>> 839aaf009465dd94ef724f87b8488281a1fae15f
     "models": [
       {
         "value": "KARMA",
@@ -1981,11 +1896,7 @@
   {
     "value": "FORD",
     "title": "Ford",
-<<<<<<< HEAD
     "image": "img/ford.jpg",
-=======
-    "image": "img/ford.jpg",
->>>>>>> 839aaf009465dd94ef724f87b8488281a1fae15f
     "models": [
       {
         "value": "AERO",
@@ -2188,11 +2099,7 @@
   {
     "value": "FREIGHT",
     "title": "Freightliner",
-<<<<<<< HEAD
     "image": "img/freightliner.jpg",
-=======
-    "image": "img/freightliner.jpg",
->>>>>>> 839aaf009465dd94ef724f87b8488281a1fae15f
     "models": [
       {
         "value": "FRESPRINT",
@@ -2203,11 +2110,7 @@
   {
     "value": "GEO",
     "title": "Geo",
-<<<<<<< HEAD
     "image": "img/geo.jpg",
-=======
-    "image": "img/geo.jpg",
->>>>>>> 839aaf009465dd94ef724f87b8488281a1fae15f
     "models": [
       {
         "value": "GEOMETRO",
@@ -2238,11 +2141,7 @@
   {
     "value": "GMC",
     "title": "GMC",
-<<<<<<< HEAD
     "image": "img/gmc.jpg",
-=======
-    "image": "img/gmc.jpg",
->>>>>>> 839aaf009465dd94ef724f87b8488281a1fae15f
     "models": [
       {
         "value": "ACADIA",
@@ -2349,11 +2248,7 @@
   {
     "value": "HONDA",
     "title": "Honda",
-<<<<<<< HEAD
     "image": "img/honda.jpg",
-=======
-    "image": "img/honda.jpg",
->>>>>>> 839aaf009465dd94ef724f87b8488281a1fae15f
     "models": [
       {
         "value": "ACCORD",
@@ -2436,11 +2331,7 @@
   {
     "value": "AMGEN",
     "title": "HUMMER",
-<<<<<<< HEAD
     "image": "img/hummer.jpg",
-=======
-    "image": "img/hummer.jpg",
->>>>>>> 839aaf009465dd94ef724f87b8488281a1fae15f
     "models": [
       {
         "value": "HUMMER",
@@ -2467,11 +2358,7 @@
   {
     "value": "HYUND",
     "title": "Hyundai",
-<<<<<<< HEAD
     "image": "img/hyundai.jpg",
-=======
-    "image": "img/hyundai.jpg",
->>>>>>> 839aaf009465dd94ef724f87b8488281a1fae15f
     "models": [
       {
         "value": "ACCENT",
@@ -2558,11 +2445,7 @@
   {
     "value": "INFIN",
     "title": "Infiniti",
-<<<<<<< HEAD
     "image": "img/infiniti.jpg",
-=======
-    "image": "img/infiniti.jpg",
->>>>>>> 839aaf009465dd94ef724f87b8488281a1fae15f
     "models": [
       {
         "value": "EX_MODELS",
@@ -2701,11 +2584,7 @@
   {
     "value": "ISU",
     "title": "Isuzu",
-<<<<<<< HEAD
     "image": "img/isuzu.jpg",
-=======
-    "image": "img/isuzu.jpg",
->>>>>>> 839aaf009465dd94ef724f87b8488281a1fae15f
     "models": [
       {
         "value": "AMIGO",
@@ -2784,11 +2663,7 @@
   {
     "value": "JAG",
     "title": "Jaguar",
-<<<<<<< HEAD
     "image": "img/jaguar.jpg",
-=======
-    "image": "img/jaguar.jpg",
->>>>>>> 839aaf009465dd94ef724f87b8488281a1fae15f
     "models": [
       {
         "value": "STYPE",
@@ -2871,11 +2746,7 @@
   {
     "value": "JEEP",
     "title": "Jeep",
-<<<<<<< HEAD
     "image": "img/jeep.jpg",
-=======
-    "image": "img/jeep.jpg",
->>>>>>> 839aaf009465dd94ef724f87b8488281a1fae15f
     "models": [
       {
         "value": "CHER",
@@ -2938,11 +2809,7 @@
   {
     "value": "KIA",
     "title": "Kia",
-<<<<<<< HEAD
     "image": "img/kia.jpg",
-=======
-    "image": "img/kia.jpg",
->>>>>>> 839aaf009465dd94ef724f87b8488281a1fae15f
     "models": [
       {
         "value": "AMANTI",
@@ -3013,11 +2880,7 @@
   {
     "value": "LAM",
     "title": "Lamborghini",
-<<<<<<< HEAD
     "image": "img/lamborghini.jpg",
-=======
-    "image": "img/lamborghini.jpg",
->>>>>>> 839aaf009465dd94ef724f87b8488281a1fae15f
     "models": [
       {
         "value": "AVENT",
@@ -3056,11 +2919,7 @@
   {
     "value": "LAN",
     "title": "Lancia",
-<<<<<<< HEAD
     "image": "img/lancia.jpg",
-=======
-    "image": "img/lancia.jpg",
->>>>>>> 839aaf009465dd94ef724f87b8488281a1fae15f
     "models": [
       {
         "value": "BETA",
@@ -3079,11 +2938,7 @@
   {
     "value": "ROV",
     "title": "Land Rover",
-<<<<<<< HEAD
     "image": "img/land_rover.jpg",
-=======
-    "image": "img/land_rover.jpg",
->>>>>>> 839aaf009465dd94ef724f87b8488281a1fae15f
     "models": [
       {
         "value": "DEFEND",
@@ -3130,11 +2985,7 @@
   {
     "value": "LEXUS",
     "title": "Lexus",
-<<<<<<< HEAD
     "image": "img/lexus.jpg",
-=======
-    "image": "img/lexus.jpg",
->>>>>>> 839aaf009465dd94ef724f87b8488281a1fae15f
     "models": [
       {
         "value": "CT_MODELS",
@@ -3333,11 +3184,7 @@
   {
     "value": "LINC",
     "title": "Lincoln",
-<<<<<<< HEAD
     "image": "img/lincoln.jpg",
-=======
-    "image": "img/lincoln.jpg",
->>>>>>> 839aaf009465dd94ef724f87b8488281a1fae15f
     "models": [
       {
         "value": "AVIATOR",
@@ -3412,11 +3259,7 @@
   {
     "value": "LOTUS",
     "title": "Lotus",
-<<<<<<< HEAD
     "image": "img/lotus.jpg",
-=======
-    "image": "img/lotus.jpg",
->>>>>>> 839aaf009465dd94ef724f87b8488281a1fae15f
     "models": [
       {
         "value": "ELAN",
@@ -3447,11 +3290,7 @@
   {
     "value": "MAS",
     "title": "Maserati",
-<<<<<<< HEAD
     "image": "img/maserati.jpg",
-=======
-    "image": "img/maserati.jpg",
->>>>>>> 839aaf009465dd94ef724f87b8488281a1fae15f
     "models": [
       {
         "value": "430",
@@ -3490,11 +3329,7 @@
   {
     "value": "MAYBACH",
     "title": "Maybach",
-<<<<<<< HEAD
     "image": "img/maybach.jpg",
-=======
-    "image": "img/maybach.jpg",
->>>>>>> 839aaf009465dd94ef724f87b8488281a1fae15f
     "models": [
       {
         "value": "57MAYBACH",
@@ -3513,11 +3348,7 @@
   {
     "value": "MAZDA",
     "title": "Mazda",
-<<<<<<< HEAD
     "image": "img/mazda.jpg",
-=======
-    "image": "img/mazda.jpg",
->>>>>>> 839aaf009465dd94ef724f87b8488281a1fae15f
     "models": [
       {
         "value": "MAZDA323",
@@ -3628,11 +3459,7 @@
   {
     "value": "MCLAREN",
     "title": "McLaren",
-<<<<<<< HEAD
     "image": "img/mc_laren.jpg",
-=======
-    "image": "img/mc_laren.jpg",
->>>>>>> 839aaf009465dd94ef724f87b8488281a1fae15f
     "models": [
       {
         "value": "MP4",
@@ -3643,11 +3470,7 @@
   {
     "value": "MB",
     "title": "Mercedes-Benz",
-<<<<<<< HEAD
     "image": "img/mercedes.jpg",
-=======
-    "image": "img/mercedes.jpg",
->>>>>>> 839aaf009465dd94ef724f87b8488281a1fae15f
     "models": [
       {
         "value": "190_CLASS",
@@ -4286,11 +4109,7 @@
   {
     "value": "MERC",
     "title": "Mercury",
-<<<<<<< HEAD
     "image": "img/mercury.jpg",
-=======
-    "image": "img/mercury.jpg",
->>>>>>> 839aaf009465dd94ef724f87b8488281a1fae15f
     "models": [
       {
         "value": "CAPRI",
@@ -4369,11 +4188,7 @@
   {
     "value": "MERKUR",
     "title": "Merkur",
-<<<<<<< HEAD
     "image": "img/merkur.jpg",
-=======
-    "image": "img/merkur.jpg",
->>>>>>> 839aaf009465dd94ef724f87b8488281a1fae15f
     "models": [
       {
         "value": "SCORP",
@@ -4392,11 +4207,7 @@
   {
     "value": "MINI",
     "title": "MINI",
-<<<<<<< HEAD
     "image": "img/mini.jpg",
-=======
-    "image": "img/mini.jpg",
->>>>>>> 839aaf009465dd94ef724f87b8488281a1fae15f
     "models": [
       {
         "value": "COOPRCLUB_MODELS",
@@ -4463,11 +4274,7 @@
   {
     "value": "MIT",
     "title": "Mitsubishi",
-<<<<<<< HEAD
     "image": "img/mitsubishi.jpg",
-=======
-    "image": "img/mitsubishi.jpg",
->>>>>>> 839aaf009465dd94ef724f87b8488281a1fae15f
     "models": [
       {
         "value": "3000GT",
@@ -4566,11 +4373,7 @@
   {
     "value": "NISSAN",
     "title": "Nissan",
-<<<<<<< HEAD
     "image": "img/nissan.jpg",
-=======
-    "image": "img/nissan.jpg",
->>>>>>> 839aaf009465dd94ef724f87b8488281a1fae15f
     "models": [
       {
         "value": "NIS200SX",
@@ -4697,11 +4500,7 @@
   {
     "value": "OLDS",
     "title": "Oldsmobile",
-<<<<<<< HEAD
     "image": "img/oldsmobile.jpg",
-=======
-    "image": "img/oldsmobile.jpg",
->>>>>>> 839aaf009465dd94ef724f87b8488281a1fae15f
     "models": [
       {
         "value": "88",
@@ -4780,11 +4579,7 @@
   {
     "value": "PEUG",
     "title": "Peugeot",
-<<<<<<< HEAD
     "image": "img/peugeot.jpg",
-=======
-    "image": "img/peugeot.jpg",
->>>>>>> 839aaf009465dd94ef724f87b8488281a1fae15f
     "models": [
       {
         "value": "405",
@@ -4811,11 +4606,7 @@
   {
     "value": "PLYM",
     "title": "Plymouth",
-<<<<<<< HEAD
     "image": "img/plymouth.jpg",
-=======
-    "image": "img/plymouth.jpg",
->>>>>>> 839aaf009465dd94ef724f87b8488281a1fae15f
     "models": [
       {
         "value": "ACC",
@@ -4902,11 +4693,7 @@
   {
     "value": "PONT",
     "title": "Pontiac",
-<<<<<<< HEAD
     "image": "img/pontiac.jpg",
-=======
-    "image": "img/pontiac.jpg",
->>>>>>> 839aaf009465dd94ef724f87b8488281a1fae15f
     "models": [
       {
         "value": "T-1000",
@@ -5021,11 +4808,7 @@
   {
     "value": "POR",
     "title": "Porsche",
-<<<<<<< HEAD
     "image": "img/porsche.jpg",
-=======
-    "image": "img/porsche.jpg",
->>>>>>> 839aaf009465dd94ef724f87b8488281a1fae15f
     "models": [
       {
         "value": "911",
@@ -5076,11 +4859,7 @@
   {
     "value": "RAM",
     "title": "RAM",
-<<<<<<< HEAD
     "image": "img/ram.jpg",
-=======
-    "image": "img/ram.jpg",
->>>>>>> 839aaf009465dd94ef724f87b8488281a1fae15f
     "models": [
       {
         "value": "RAM1504WD",
@@ -5103,11 +4882,7 @@
   {
     "value": "REN",
     "title": "Renault",
-<<<<<<< HEAD
     "image": "img/renault.jpg",
-=======
-    "image": "img/renault.jpg",
->>>>>>> 839aaf009465dd94ef724f87b8488281a1fae15f
     "models": [
       {
         "value": "18I",
@@ -5138,11 +4913,7 @@
   {
     "value": "RR",
     "title": "Rolls-Royce",
-<<<<<<< HEAD
     "image": "img/royce.jpg",
-=======
-    "image": "img/royce.jpg",
->>>>>>> 839aaf009465dd94ef724f87b8488281a1fae15f
     "models": [
       {
         "value": "CAMAR",
@@ -5189,11 +4960,7 @@
   {
     "value": "SAAB",
     "title": "Saab",
-<<<<<<< HEAD
     "image": "img/saab.jpg",
-=======
-    "image": "img/saab.jpg",
->>>>>>> 839aaf009465dd94ef724f87b8488281a1fae15f
     "models": [
       {
         "value": "9-2X",
@@ -5232,11 +4999,7 @@
   {
     "value": "SATURN",
     "title": "Saturn",
-<<<<<<< HEAD
     "image": "img/saturn.jpg",
-=======
-    "image": "img/saturn.jpg",
->>>>>>> 839aaf009465dd94ef724f87b8488281a1fae15f
     "models": [
       {
         "value": "ASTRA",
@@ -5355,11 +5118,7 @@
   {
     "value": "SCION",
     "title": "Scion",
-<<<<<<< HEAD
     "image": "img/scion.jpg",
-=======
-    "image": "img/scion.jpg",
->>>>>>> 839aaf009465dd94ef724f87b8488281a1fae15f
     "models": [
       {
         "value": "SCIFRS",
@@ -5390,11 +5149,7 @@
   {
     "value": "SMART",
     "title": "smart",
-<<<<<<< HEAD
     "image": "img/smart.jpg",
-=======
-    "image": "img/smart.jpg",
->>>>>>> 839aaf009465dd94ef724f87b8488281a1fae15f
     "models": [
       {
         "value": "FORTWO",
@@ -5409,11 +5164,7 @@
   {
     "value": "SRT",
     "title": "SRT",
-<<<<<<< HEAD
     "image": "img/srt.jpg",
-=======
-    "image": "img/srt.jpg",
->>>>>>> 839aaf009465dd94ef724f87b8488281a1fae15f
     "models": [
       {
         "value": "SRTVIPER",
@@ -5424,11 +5175,7 @@
   {
     "value": "STERL",
     "title": "Sterling",
-<<<<<<< HEAD
     "image": "img/sterling.jpg",
-=======
-    "image": "img/sterling.jpg",
->>>>>>> 839aaf009465dd94ef724f87b8488281a1fae15f
     "models": [
       {
         "value": "825",
@@ -5447,11 +5194,7 @@
   {
     "value": "SUB",
     "title": "Subaru",
-<<<<<<< HEAD
     "image": "img/subaru.jpg",
-=======
-    "image": "img/subaru.jpg",
->>>>>>> 839aaf009465dd94ef724f87b8488281a1fae15f
     "models": [
       {
         "value": "BAJA",
@@ -5522,11 +5265,7 @@
   {
     "value": "SUZUKI",
     "title": "Suzuki",
-<<<<<<< HEAD
     "image": "img/suzuki.jpg",
-=======
-    "image": "img/suzuki.jpg",
->>>>>>> 839aaf009465dd94ef724f87b8488281a1fae15f
     "models": [
       {
         "value": "AERIO",
@@ -5597,11 +5336,7 @@
   {
     "value": "TESLA",
     "title": "Tesla",
-<<<<<<< HEAD
     "image": "img/tesla.jpg",
-=======
-    "image": "img/tesla.jpg",
->>>>>>> 839aaf009465dd94ef724f87b8488281a1fae15f
     "models": [
       {
         "value": "ROADSTER",
@@ -5612,11 +5347,7 @@
   {
     "value": "TOYOTA",
     "title": "Toyota",
-<<<<<<< HEAD
     "image": "img/toyota.jpg",
-=======
-    "image": "img/toyota.jpg",
->>>>>>> 839aaf009465dd94ef724f87b8488281a1fae15f
     "models": [
       {
         "value": "4RUN",
@@ -5759,11 +5490,7 @@
   {
     "value": "TRI",
     "title": "Triumph",
-<<<<<<< HEAD
     "image": "img/triumph.jpg",
-=======
-    "image": "img/triumph.jpg",
->>>>>>> 839aaf009465dd94ef724f87b8488281a1fae15f
     "models": [
       {
         "value": "TR7",
@@ -5782,11 +5509,7 @@
   {
     "value": "VOLKS",
     "title": "Volkswagen",
-<<<<<<< HEAD
     "image": "img/volkswagen.jpg",
-=======
-    "image": "img/volkswagen.jpg",
->>>>>>> 839aaf009465dd94ef724f87b8488281a1fae15f
     "models": [
       {
         "value": "BEETLE",
@@ -5901,11 +5624,7 @@
   {
     "value": "VOLVO",
     "title": "Volvo",
-<<<<<<< HEAD
     "image": "img/volvo.jpg",
-=======
-    "image": "img/volvo.jpg",
->>>>>>> 839aaf009465dd94ef724f87b8488281a1fae15f
     "models": [
       {
         "value": "240",
@@ -6004,11 +5723,7 @@
   {
     "value": "YUGO",
     "title": "Yugo",
-<<<<<<< HEAD
     "image": "img/yugo.jpg",
-=======
-    "image": "img/yugo.jpg",
->>>>>>> 839aaf009465dd94ef724f87b8488281a1fae15f
     "models": [
       {
         "value": "GV",
